@@ -1,2 +1,2 @@
 # ToDoList
-Task list in JS
+First project in JS 
